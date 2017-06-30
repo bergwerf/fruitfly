@@ -1,0 +1,8 @@
+name:         drosophila_visualization
+version:      0.0.0
+author:       Herman Bergwerf <hermanbergwerf@gmail.com>
+description:  WebGL drosophila development
+homepage:     https://github.com/hermanbergwerf/fruitfly
+environment:
+  sdk:        '>=1.8.0 <2.0.0'
+dependencies:
